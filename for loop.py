@@ -1,2 +1,4 @@
-for letter in "Arockiya Selvan":
+friends = ["Jim","Karen","Selva"]
+
+for letter in friends:
     print(letter)
