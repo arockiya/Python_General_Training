@@ -1,4 +1,4 @@
 friends = ["Jim","Karen","Selva"]
 
-for letter in friends:
+for letter in range(10):
     print(letter)
