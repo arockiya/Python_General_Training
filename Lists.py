@@ -14,7 +14,6 @@ print(Cities)
 
 States.clear()
 print(States)
-
 # pop- Removes the last element in the list
 Cities.pop()
 print(Cities) #removed Koratti
